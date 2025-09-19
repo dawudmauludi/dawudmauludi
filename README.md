@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝Hello, I am Dawud Maludi. I am a web developer who focuses on frontend development.😎<br>
+🤝Hello, I am Dawud Mauludi. I am a web developer who focuses on frontend development.😎<br>
 
 
 ## 🌐 Socials:
